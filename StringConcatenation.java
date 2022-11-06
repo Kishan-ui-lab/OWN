@@ -8,8 +8,6 @@ public class StringConcatenation {
 		String x= "Hello";
 		String y="Testing";
 		String s1 ="2";
-		String ph ="5715854665";
-		String cc = "1234 5678 1234";
 		
 		int a = 100;
 		int b = 200;
