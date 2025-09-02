@@ -1,0 +1,40 @@
+ In python, it is NOT possible to concat the String and integer operator
+ = > str can be used to  convert the number into string.
+ 
+ In python, if you try to combine two different types of data, then we will get Type Error
+ print("Hanuman"+10)
+ 
+ => In python, it is possible to combine only similar type of data.
+ but it is possible to combine(int+float+bool) bcoz these come under numeric data.
+ print(10+2.4)
+ => To check the python installation file , then at command prompt where python
+ = > python is dynamically programmed language
+ => python platform independent language
+ => where python - to check python installed location
+ python is case sensitive language.
+ $ is not allowed in python
+ python 2.x interpreter is different.
+ python 3.x interpreter is different.
+ python2.x code will NOT run in 3.x version
+ char , long datatype not supported in python3
+ Reserved words : 
+ True,False,None
+ and,or,not,is
+ if,else,elif
+ while,for,break,continue,return,in,yield
+ try,except,finally,raise,assert
+import,from,as,class,def,pass,global,nonlocal,lamba,del,with
+async,wait
+=> In python everything is object, that's why size,range,min,max concept NOT applicable to python.
+=> Note : Python's fundamental data types => int,float,complex,bool,str
+=> Char and long is NOT available in python3.
+=> compiler = > to do syntax checking ( Java )
+=>  interpreter => to run program ( Java )
+=> Interpreter =>  to do syntax checking and to run program - > python.
+Input() function by default takes data in String format.
+Relation operators always return boolean value.
+Note :
+=> increments & decrements operators not supported by python(i++,i--,++1,--i)
+=> Ternary operator not supported by python "?"
+=> python will not support && ||
+=> pass is empty statement in python
