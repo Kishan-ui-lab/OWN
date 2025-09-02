@@ -1,9 +1,9 @@
 public class Return {
 	
 	
-	int cable() {
+	String cable() {
 		
-		return 2;
+		return "kishan";
 
 	}
 
